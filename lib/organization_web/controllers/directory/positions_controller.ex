@@ -1,0 +1,2 @@
+defmodule OrganizationWeb.Directory.PositionsController do
+end
